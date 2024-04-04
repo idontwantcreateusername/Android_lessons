@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="deploymentTargetDropDown">
+    <value>
+      <entry key="app">
+        <State />
+      </entry>
+      <entry key="p-4">
+        <State>
+          <targetSelectedWithDropDown>
+            <Target>
+              <type value="QUICK_BOOT_TARGET" />
+              <deviceKey>
+                <Key>
+                  <type value="VIRTUAL_DEVICE_PATH" />
+                  <value value="C:\Users\User\.android\avd\Pixel_8_API_30.avd" />
+                </Key>
+              </deviceKey>
+            </Target>
+          </targetSelectedWithDropDown>
+          <timeTargetWasSelectedWithDropDown value="2024-04-02T19:22:13.988402700Z" />
+        </State>
+      </entry>
+      <entry key="p-4-1">
+        <State />
+      </entry>
+      <entry key="p0031firstproject">
+        <State>
+          <targetSelectedWithDropDown>
+            <Target>
+              <type value="QUICK_BOOT_TARGET" />
+              <deviceKey>
+                <Key>
+                  <type value="VIRTUAL_DEVICE_PATH" />
+                  <value value="C:\Users\User\.android\avd\Medium_Phone_API_34.avd" />
+                </Key>
+              </deviceKey>
+            </Target>
+          </targetSelectedWithDropDown>
+          <timeTargetWasSelectedWithDropDown value="2024-03-26T04:10:58.955565700Z" />
+        </State>
+      </entry>
+      <entry key="p0041basicview">
+        <State />
+      </entry>
+      <entry key="p0051layoutfiles">
+        <State />
+      </entry>
+      <entry key="p0061">
+        <State />
+      </entry>
+      <entry key="p0062_programm_liner">
+        <State />
+      </entry>
+      <entry key="p0063_relative">
+        <State />
+      </entry>
+    </value>
+  </component>
+</project>
